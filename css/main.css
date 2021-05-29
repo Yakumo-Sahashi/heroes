@@ -1,0 +1,23 @@
+.bg-lista{
+    background: url("../img/batwoman.jpg") fixed no-repeat 0 0;
+    background-size: cover;
+    background-position: center center;
+}
+
+.bg-obtener{
+    background: url("../img/iron-man-mark-85.jpg") fixed no-repeat 0 0;
+    background-size: cover;
+    background-position: center center;
+}
+
+.card-tb{
+    background-color: rgb(0, 0, 0,0.5);
+}
+
+.menu-fixed{
+	position: fixed;
+  	width: 100%;
+  	top:0;
+  	z-index: 1000;
+  	box-shadow: 0px 4px 3px rgba(0,0,0,0.2);
+}
