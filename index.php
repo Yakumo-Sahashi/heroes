@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="css/main.css">
     <script src="js/font_awesome/all.js"></script>
     <script src="js/swal/swal.js"></script>
-    <title>Cobro de fotografias</title>
+    <title>Super Heroes</title>
 </head>
 
 <body class="bg-lista">
@@ -20,8 +20,8 @@
         <div class="row justify-content-around">
             <div class="col-md-12">
                 <div class="card card-tb text-white">
-                    <div class="card-header">
-                        <h1>Super Heroes</h1>
+                    <div class="card-header text-center">
+                        <h1 class="display-4">Listado de Super Heroes</h1>
                     </div>
                     <div class="card-body">
                         <table id="contenidoHero" class="table table-hover table-sm table-responsive-lg mt-3 text-center">

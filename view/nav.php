@@ -2,7 +2,7 @@
     <div class="container text-center">
 
         <a class="navbar-brand" href="index.php" style="color: #FFF;"><img class="ml-2 mr-2" src="img/favico.png"
-                width="25px" height="25px"><b>SUPER HEROES</b></a>
+                width="25px" height="25px"><b>AMATERASU</b></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <i class="fas fa-bars text-white"></i>
