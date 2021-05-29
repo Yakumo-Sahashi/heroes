@@ -23,9 +23,8 @@
                     <div class="card-header">
                         <h1>Super Heroes</h1>
                     </div>
-                    <img class="img-fluid" src="" alt="">
                     <div class="card-body">
-                        <table id="contenidoHero" class="table table-hover table-md table-responsive-md text-center">
+                        <table id="contenidoHero" class="table table-hover table-sm table-responsive-lg mt-3 text-center">
                             <thead>
                                 <tr>
                                     <th>id</th>
